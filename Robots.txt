@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+Disallow: /admin
+Disallow: /product_add.php
+Disallow: /product_edit.php
+Disallow: /delete.php
+Disallow: /function.php
+Disallow: /database-connect.php
+
+Sitemap: http://baaloo.tk/sitemap.xml
